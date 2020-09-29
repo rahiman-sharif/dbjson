@@ -43,5 +43,63 @@
       "price": "322",
       "id": 5
     }
+  ],
+  "DataList": [
+    {
+      "id": 1,
+      "Employeename": "Ranjith vasudevan",
+      "Experience": 2,
+      "Type": "Permanent",
+      "Field": "IT"
+    },
+    {
+      "id": 2,
+      "Employeename": "Rahim sharif",
+      "Experience": 6,
+      "Type": "Permanent",
+      "Field": "IT"
+    },
+    {
+      "id": 3,
+      "Employeename": "Ashok",
+      "Experience": 13,
+      "Type": "Permanent",
+      "Field": "IT"
+    },
+    {
+      "id": 4,
+      "Employeename": "Balaji",
+      "Experience": 3,
+      "Type": "Permanent",
+      "Field": "IT"
+    },
+    {
+      "id": 5,
+      "Employeename": "Vijay",
+      "Experience": 11,
+      "Type": "Permanent",
+      "Field": "IT"
+    },
+    {
+      "id": 6,
+      "Employeename": "Gobinath",
+      "Experience": "2",
+      "Type": "Permanent",
+      "Field": "IT"
+    },
+    {
+      "id": 7,
+      "Employeename": "Selva",
+      "Experience": "6",
+      "Type": "Permanent",
+      "Field": "IT"
+    },
+    {
+      "id": 8,
+      "Employeename": "gobinath",
+      "Experience": "2",
+      "Type": "permanent",
+      "Field": "it"
+    }
   ]
 }
