@@ -17,26 +17,22 @@
     {
       "name": "Monitors",
       "price": "129",
-      "id": 1,
-      "editable": false
+      "id": 1
     },
     {
       "name": "Monitor Dell",
       "price": "222",
-      "id": 2,
-      "editable": false
+      "id": 2
     },
     {
       "name": "Hp Desktop",
       "price": "333",
-      "id": 3,
-      "editable": false
+      "id": 3
     },
     {
       "name": "Dell",
       "price": "444",
-      "id": 4,
-      "editable": false
+      "id": 4
     },
     {
       "name": "Test",
