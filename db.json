@@ -72,7 +72,7 @@
       "price": "650 Rs.",
       "id": 4,
       "category":"tshirt",
-      "image": "https://res.cloudinary.com/de8cuyd0n/image/upload/v1520412550/E-commerce%20landing%20page/products-showcase/product-4-img_3x.jpg" alt="product-image",
+      "image": "https://res.cloudinary.com/de8cuyd0n/image/upload/v1520412550/E-commerce%20landing%20page/products-showcase/product-4-img_3x.jpg" ,
       "description":"Men fashion"
     }
 
