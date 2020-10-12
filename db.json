@@ -44,13 +44,40 @@
   ,
   "ekartproducts": [
     {
-      "name": "White Tshirt",
-      "price": "500",
+      "name": "Cold fashion",
+      "price": "5000 Rs.",
       "id": 1,
       "category":"tshirt",
-      "image": "https://images.unsplash.com/photo-1523381294911-8d3cead13475?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
-      "description":"White Colour Tshirt"
-    }    
+      "image": "https://res.cloudinary.com/de8cuyd0n/image/upload/v1520412551/E-commerce%20landing%20page/products-showcase/product-1-img_3x.jpg",
+      "description":"Cold fashion"
+    }  ,
+{
+      "name": "Women fashion",
+      "price": "5050 Rs.",
+      "id": 2,
+      "category":"tshirt",
+      "image": "https://res.cloudinary.com/de8cuyd0n/image/upload/v1520412546/E-commerce%20landing%20page/products-showcase/product-2-img_3x.jpg",
+      "description":"Women fashion"
+    }  ,
+{
+      "name": "Casual Women fashion",
+      "price": "8050 Rs.",
+      "id": 3,
+      "category":"tshirt",
+      "image": "https://res.cloudinary.com/de8cuyd0n/image/upload/v1520412550/E-commerce%20landing%20page/products-showcase/product-3-img_3x.jpg",
+      "description":"Casual Women fashion"
+    },
+{
+      "name": "Men Tshirt",
+      "price": "650 Rs.",
+      "id": 4,
+      "category":"tshirt",
+      "image": "https://res.cloudinary.com/de8cuyd0n/image/upload/v1520412550/E-commerce%20landing%20page/products-showcase/product-4-img_3x.jpg" alt="product-image",
+      "description":"Men fashion"
+    }
+
+
+
   ],
   "products": [
     {
