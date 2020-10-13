@@ -16,6 +16,19 @@
   ],
   "checkout": [
     {
+    "userid": 1,
+    "prodid": 3,
+    "size": "M",
+    "name": "Casual Women fashion",
+    "category": "tshirt",
+    "image": "https://res.cloudinary.com/de8cuyd0n/image/upload/v1520412550/E-commerce%20landing%20page/products-showcase/product-3-img_3x.jpg",
+    "description": "Casual Women fashion",
+    "qty": 2,
+    "price": "16100",
+    "id": 2
+    }],
+  "checkout1": [
+    {
     "id":1,
     "userid": "1",
     "prodid":"1",
