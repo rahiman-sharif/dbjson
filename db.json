@@ -16,7 +16,7 @@
   ],
   "checkout": [
     {
-    "checkoutid"=1,
+    "checkoutid":1,
     "userid": "1",
     "prodid":"1",
     "size":"xl"   
