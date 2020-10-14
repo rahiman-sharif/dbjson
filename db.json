@@ -28,7 +28,7 @@
     "orderdate":"2020-10-14",
 	"deliverydate": "2020-10-14",
 	"status": "inprogress",
-	"address": "Address"
+	"address": "Address",
     "id": 1
   }],
   "checkout": [
