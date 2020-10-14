@@ -14,6 +14,23 @@
       "username": "zero_cool"
     }
   ],
+  "ordersplaced": [
+  {
+    "userid": 1,
+    "prodid": 1,
+    "size": "M",
+    "name": "Cold fashion",
+    "category": "tshirt",
+    "image": "https://res.cloudinary.com/de8cuyd0n/image/upload/v1520412551/E-commerce%20landing%20page/products-showcase/product-1-img_3x.jpg",
+    "description": "Cold fashion",
+    "qty": 1,
+    "price": "5000",
+    "orderdate":"2020-10-14",
+	"deliverydate": "2020-10-14",
+	"status": "inprogress",
+	"address": "Address"
+    "id": 1
+  }],
   "checkout": [
     {
     "userid": 1,
