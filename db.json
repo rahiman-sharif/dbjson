@@ -45,9 +45,9 @@
     "id": 2
 }], "userdata": [
     {
-    "name": "Rahman"
-    "id": 1
-"type":"admin"
+    "name": "Rahman",
+    "id": 1,
+"type":"admin",
 "password":"z"
 }]
   "checkout1": [
