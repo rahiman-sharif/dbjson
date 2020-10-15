@@ -43,7 +43,13 @@
     "qty": 2,
     "price": "16100",
     "id": 2
-}],
+}], "userdata": [
+    {
+    "name": "Rahman"
+    "id": 1
+"type":"admin"
+"password":"z"
+}]
   "checkout1": [
     {
     "id":1,
