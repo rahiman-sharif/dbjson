@@ -22,7 +22,7 @@
     "name": "Cold fashion",
     "category": "tshirt",
     "image": "https://res.cloudinary.com/de8cuyd0n/image/upload/v1520412551/E-commerce%20landing%20page/products-showcase/product-1-img_3x.jpg",
-    "description": "Cold fashion",
+    "description": "Cold fashion Light weight Bio Wash cotton fabric for Superior Feel and Comfort. Fast Colors Stitched neck tape for extra comfort.",
     "qty": 1,
     "price": "5000",
     "orderdate":"2020-10-14",
@@ -39,7 +39,7 @@
     "name": "Casual Women fashion",
     "category": "tshirt",
     "image": "https://res.cloudinary.com/de8cuyd0n/image/upload/v1520412550/E-commerce%20landing%20page/products-showcase/product-3-img_3x.jpg",
-    "description": "Casual Women fashion",
+    "description": "Casual Women fashion Light weight Bio Wash cotton fabric for Superior Feel and Comfort. Fast Colors Stitched neck tape for extra comfort.",
     "qty": 2,
     "price": "16100",
     "id": 2
@@ -99,7 +99,7 @@
       "id": 1,
       "category":"tshirt",
       "image": "https://res.cloudinary.com/de8cuyd0n/image/upload/v1520412551/E-commerce%20landing%20page/products-showcase/product-1-img_3x.jpg",
-      "description":"Cold fashion"
+      "description":"Cold fashion Light weight Bio Wash cotton fabric for Superior Feel and Comfort. Fast Colors Stitched neck tape for extra comfort."
     }  ,
 {
       "name": "Women fashion",
@@ -107,7 +107,7 @@
       "id": 2,
       "category":"tshirt",
       "image": "https://res.cloudinary.com/de8cuyd0n/image/upload/v1520412546/E-commerce%20landing%20page/products-showcase/product-2-img_3x.jpg",
-      "description":"Women fashion"
+      "description":"Women fashion Light weight Bio Wash cotton fabric for Superior Feel and Comfort. Fast Colors Stitched neck tape for extra comfort."
     }  ,
 {
       "name": "Casual Women fashion",
@@ -115,7 +115,7 @@
       "id": 3,
       "category":"tshirt",
       "image": "https://res.cloudinary.com/de8cuyd0n/image/upload/v1520412550/E-commerce%20landing%20page/products-showcase/product-3-img_3x.jpg",
-      "description":"Casual Women fashion"
+      "description":"Casual Women fashion Light weight Bio Wash cotton fabric for Superior Feel and Comfort. Fast Colors Stitched neck tape for extra comfort."
     },
 {
       "name": "Men Tshirt",
@@ -123,7 +123,7 @@
       "id": 4,
       "category":"tshirt",
       "image": "https://res.cloudinary.com/de8cuyd0n/image/upload/v1520412550/E-commerce%20landing%20page/products-showcase/product-4-img_3x.jpg" ,
-      "description":"Men fashion"
+      "description":"Men fashion Light weight Bio Wash cotton fabric for Superior Feel and Comfort. Fast Colors Stitched neck tape for extra comfort."
     }
 
 
